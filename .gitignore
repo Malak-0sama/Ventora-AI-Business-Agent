@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Uploaded Files
+uploads/
+
+# Trained Models
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+
+# CatBoost
+catboost_info/
+
+
+# Logs
+logs/
+*.log
